@@ -1,0 +1,5 @@
+[
+  { "id": "templateminiapps", "label": "Aplicativo 1", "port": "8083" },
+  { "id": "checkout", "label": "Checkout", "port": "8084", "hideCard": true },
+  { "id": "store", "label": "Loja", "port": "8082", "headerShow": true, "initial": true }
+]
